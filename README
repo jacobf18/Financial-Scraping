@@ -1,1 +1,3 @@
 This is a collection of financial scraping scripts.
+
+The market chameleon one requires that you have a premium account with them.  It also requires that you have geckodriver linked in PATH and that Firefox is installed.
