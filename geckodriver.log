@@ -1,0 +1,1098 @@
+1558382396887	geckodriver	INFO	geckodriver 0.18.0
+1558382396889	geckodriver	INFO	Listening on 127.0.0.1:35313
+1558382397988	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1558382398497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558382398497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558382398497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558382398625	Marionette	TRACE	Received observer notification profile-after-change
+1558382398743	Marionette	TRACE	Received observer notification command-line-startup
+1558382398743	Marionette	TRACE	Received observer notification nsPref:changed
+1558382398743	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1558382398938	Marionette	TRACE	Received observer notification toplevel-window-ready
+1558382399562	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1558382399562	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1558382399698	Marionette	TRACE	All scripts recorded.
+1558382399698	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1558382399699	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1558382399699	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1558382399699	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1558382399700	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1558382399700	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1558382399700	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1558382399700	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1558382399700	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1558382399737	Marionette	INFO	Listening on port 38293
+1558382399737	Marionette	DEBUG	Remote service is active
+1558382399798	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:52752
+1558382399809	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1558382399810	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... et@chrome://marionette/content/server.js:235:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:493:9\n"},null]
+1558382399842	Marionette	DEBUG	Closed connection 0
+1558382403988	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1558382403989	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1558382403989	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1558382403989	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1558382403989	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1558382403989	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1558382403990	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1558382403990	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1558382403990	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1558382403990	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1558382403992	Marionette	INFO	Stopped listening on port 38293
+1558382403992	Marionette	DEBUG	Remote service is inactive
+1558382527342	geckodriver	INFO	geckodriver 0.18.0
+1558382527345	geckodriver	INFO	Listening on 127.0.0.1:59517
+1558382528437	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1558382528719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558382528719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558382528719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558382528823	Marionette	TRACE	Received observer notification profile-after-change
+1558382528890	Marionette	TRACE	Received observer notification command-line-startup
+1558382528890	Marionette	TRACE	Received observer notification nsPref:changed
+1558382528890	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1558382529027	Marionette	TRACE	Received observer notification toplevel-window-ready
+1558382529625	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1558382529626	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1558382529748	Marionette	TRACE	All scripts recorded.
+1558382529748	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1558382529748	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1558382529749	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1558382529749	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1558382529749	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1558382529749	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1558382529749	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1558382529749	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1558382529750	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1558382529786	Marionette	INFO	Listening on port 44025
+1558382529786	Marionette	DEBUG	Remote service is active
+1558382529842	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:35306
+1558382529843	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1558382529844	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... et@chrome://marionette/content/server.js:235:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:493:9\n"},null]
+1558382529872	Marionette	DEBUG	Closed connection 0
+[Parent 2212, Gecko_IOThread] WARNING: pipe error (65): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 2212, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558382546892	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1558382546892	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1558382546893	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1558382546894	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1558382546894	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1558382546894	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1558382546895	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1558382546895	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1558382546896	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1558382546896	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1558382546897	Marionette	INFO	Stopped listening on port 44025
+1558382546897	Marionette	DEBUG	Remote service is inactive
+1558384878777	geckodriver	INFO	geckodriver 0.18.0
+1558384878779	geckodriver	INFO	Listening on 127.0.0.1:38915
+1558384879871	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1558384880160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558384880160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558384880160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558384880266	Marionette	TRACE	Received observer notification profile-after-change
+1558384880351	Marionette	TRACE	Received observer notification command-line-startup
+1558384880351	Marionette	TRACE	Received observer notification nsPref:changed
+1558384880352	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1558384880519	Marionette	TRACE	Received observer notification toplevel-window-ready
+1558384881130	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1558384881130	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1558384881259	Marionette	TRACE	All scripts recorded.
+1558384881259	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1558384881259	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1558384881259	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1558384881260	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1558384881260	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1558384881260	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1558384881260	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1558384881260	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1558384881260	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1558384881294	Marionette	INFO	Listening on port 36937
+1558384881294	Marionette	DEBUG	Remote service is active
+1558384881380	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:36788
+1558384881384	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1558384881384	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... et@chrome://marionette/content/server.js:235:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:493:9\n"},null]
+1558384881425	Marionette	DEBUG	Closed connection 0
+[Parent 4128, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 4128, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558384886007	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1558384886008	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1558384886008	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1558384886009	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1558384886010	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1558384886010	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1558384886012	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1558384886012	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1558384886012	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1558384886013	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1558384886016	Marionette	INFO	Stopped listening on port 36937
+1558384886016	Marionette	DEBUG	Remote service is inactive
+1558384965627	geckodriver	INFO	geckodriver 0.18.0
+1558384965630	geckodriver	INFO	Listening on 127.0.0.1:41819
+1558384966723	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1558384967016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558384967016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558384967017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558384967126	Marionette	TRACE	Received observer notification profile-after-change
+1558384967229	Marionette	TRACE	Received observer notification command-line-startup
+1558384967230	Marionette	TRACE	Received observer notification nsPref:changed
+1558384967230	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1558384967371	Marionette	TRACE	Received observer notification toplevel-window-ready
+1558384967927	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1558384967927	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1558384968059	Marionette	TRACE	All scripts recorded.
+1558384968059	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1558384968060	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1558384968060	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1558384968060	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1558384968060	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1558384968061	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1558384968061	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1558384968061	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1558384968061	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1558384968096	Marionette	INFO	Listening on port 42127
+1558384968096	Marionette	DEBUG	Remote service is active
+1558384968131	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:55544
+1558384968148	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1558384968148	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... et@chrome://marionette/content/server.js:235:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:493:9\n"},null]
+1558384968176	Marionette	DEBUG	Closed connection 0
+1558384977904	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1558384977904	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1558384977905	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1558384977905	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1558384977905	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1558384977905	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1558384977906	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1558384977906	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1558384977907	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1558384977908	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1558384977910	Marionette	INFO	Stopped listening on port 42127
+1558384977911	Marionette	DEBUG	Remote service is inactive
+1558385452630	geckodriver	INFO	geckodriver 0.18.0
+1558385452632	geckodriver	INFO	Listening on 127.0.0.1:41605
+1558385453730	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1558385454023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558385454023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558385454023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558385454122	Marionette	TRACE	Received observer notification profile-after-change
+1558385454207	Marionette	TRACE	Received observer notification command-line-startup
+1558385454207	Marionette	TRACE	Received observer notification nsPref:changed
+1558385454207	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1558385454396	Marionette	TRACE	Received observer notification toplevel-window-ready
+1558385454967	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1558385454967	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1558385455144	Marionette	TRACE	All scripts recorded.
+1558385455144	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1558385455144	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1558385455145	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1558385455145	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1558385455145	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1558385455146	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1558385455147	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1558385455147	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1558385455147	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1558385455194	Marionette	INFO	Listening on port 34099
+1558385455194	Marionette	DEBUG	Remote service is active
+1558385455247	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:59562
+1558385455256	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1558385455256	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... et@chrome://marionette/content/server.js:235:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:493:9\n"},null]
+1558385455295	Marionette	DEBUG	Closed connection 0
+[Parent 11528, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 11528, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558385458623	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1558385458623	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1558385458623	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1558385458623	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1558385458623	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1558385458623	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1558385458623	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1558385458623	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1558385458623	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1558385458623	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1558385458624	Marionette	INFO	Stopped listening on port 34099
+1558385458624	Marionette	DEBUG	Remote service is inactive
+1558385593616	geckodriver	INFO	geckodriver 0.18.0
+1558385593619	geckodriver	INFO	Listening on 127.0.0.1:53375
+1558385594711	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1558385594999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558385595000	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558385595000	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558385595104	Marionette	TRACE	Received observer notification profile-after-change
+1558385595186	Marionette	TRACE	Received observer notification command-line-startup
+1558385595186	Marionette	TRACE	Received observer notification nsPref:changed
+1558385595187	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1558385595356	Marionette	TRACE	Received observer notification toplevel-window-ready
+1558385595943	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1558385595943	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1558385596101	Marionette	TRACE	All scripts recorded.
+1558385596101	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1558385596101	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1558385596101	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1558385596102	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1558385596102	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1558385596104	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1558385596105	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1558385596105	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1558385596105	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1558385596145	Marionette	INFO	Listening on port 42135
+1558385596145	Marionette	DEBUG	Remote service is active
+1558385596216	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:43050
+1558385596217	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1558385596218	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... et@chrome://marionette/content/server.js:235:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:493:9\n"},null]
+1558385596237	Marionette	DEBUG	Closed connection 0
+[Parent 12046, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 12046, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558385601586	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1558385601586	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1558385601587	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1558385601587	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1558385601587	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1558385601587	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1558385601587	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1558385601587	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1558385601587	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1558385601587	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1558385601588	Marionette	INFO	Stopped listening on port 42135
+1558385601588	Marionette	DEBUG	Remote service is inactive
+1558385779182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6AjydLmWjFxC"
+1558385779463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558385779463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558385779463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558385780588	Marionette	INFO	Listening on port 34887
+1558385780711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 46677: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 57107: unreachable code after return statement
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://hbx.media.net/bidexchange.js?cid=8CU2C156D&version=5.1&dn=marketchameleon.com, line 5: TypeError: t.browserfp is not a constructor
+[Parent 12695, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 12695, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558385787869	Marionette	INFO	Stopped listening on port 34887
+1558398883716	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MzqfLtpCxNLd"
+1558398884349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558398884350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558398884350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558398885600	Marionette	INFO	Listening on port 44219
+1558398885628	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 46677: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 57107: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:15906): dconf-WARNING **: 20:34:51.511: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 46677: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 57107: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 46677: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 57107: unreachable code after return statement
+[Parent 15708, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 15708, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558399059135	Marionette	INFO	Stopped listening on port 44219
+1558399189646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hDh9878yYSPP"
+1558399189965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558399189966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558399189966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558399191137	Marionette	INFO	Listening on port 42151
+1558399191162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 46677: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 57107: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:16823): dconf-WARNING **: 20:40:09.677: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 16630, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 16630, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558399229301	Marionette	INFO	Stopped listening on port 42151
+1558399235087	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0RPaefQC2WYy"
+1558399235357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558399235357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558399235357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558399236445	Marionette	INFO	Listening on port 40039
+1558399236502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 46677: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 57107: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 46677: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 57107: unreachable code after return statement
+[Parent 17100, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 17100, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558399367835	Marionette	INFO	Stopped listening on port 40039
+1558399370338	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.R7r7FzZacwcO"
+1558399370609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558399370610	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558399370610	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558399371722	Marionette	INFO	Listening on port 37703
+1558399371748	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 46677: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 57107: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 46677: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 57107: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 17781, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558399405928	Marionette	INFO	Stopped listening on port 37703
+1558399446173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5j5OWygqVgo9"
+1558399446441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558399446441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558399446441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558399447521	Marionette	INFO	Listening on port 33257
+1558399447579	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 46677: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 57107: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:18441): dconf-WARNING **: 20:44:15.228: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 46677: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 57107: unreachable code after return statement
+[Parent 18270, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558399491155	Marionette	INFO	Stopped listening on port 33257
+1558399574937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aP18UvvrC9WD"
+1558399575198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558399575199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558399575199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558399576246	Marionette	INFO	Listening on port 38431
+1558399576345	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 46677: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 57107: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 46677: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 57107: unreachable code after return statement
+[Parent 18825, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 18825, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558399605369	Marionette	INFO	Stopped listening on port 38431
+1558400184741	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1s3NWSUn47gw"
+1558400185018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558400185019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558400185019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558400186110	Marionette	INFO	Listening on port 44581
+1558400186150	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558400186211	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eluY6uS3DxPj"
+1558400186509	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558400186509	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558400186509	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558400187613	Marionette	INFO	Listening on port 36451
+1558400187629	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 46677: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 57107: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:21099): dconf-WARNING **: 20:56:38.571: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 46677: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 57107: unreachable code after return statement
+[Parent 20593, Gecko_IOThread] WARNING: pipe error (108): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558400224063	Marionette	INFO	Stopped listening on port 44581
+[Parent 20864, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558400225362	Marionette	INFO	Stopped listening on port 36451
+1558400280625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LRNdJJ0FCoP0"
+1558400280905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558400280906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558400280906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558400282064	Marionette	INFO	Listening on port 38219
+1558400282142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 46677: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 57107: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 46677: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=QB_g_sn2gDXAN-KurhEnycA6VSr7YdwedOZAhsUxYaE1, line 57107: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1558400328176	Marionette	INFO	Stopped listening on port 38219
+1558401167975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yGrMBCXMzWPf"
+1558401168228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558401168228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558401168228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558401169291	Marionette	INFO	Listening on port 36177
+1558401169385	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 24085, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 24085, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558401226912	Marionette	INFO	Stopped listening on port 36177
+1558401229303	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JgIIR78Jth32"
+1558401229558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558401229558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558401229558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558401230596	Marionette	INFO	Listening on port 46777
+1558401230615	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 24444, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 24444, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558401255046	Marionette	INFO	Stopped listening on port 46777
+1558401273309	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pJbo8WBpaRiE"
+1558401273611	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558401273612	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558401273612	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558401274778	Marionette	INFO	Listening on port 46513
+1558401274824	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24903, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 24903, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558401284734	Marionette	INFO	Stopped listening on port 46513
+1558403532107	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.l1F4TnyAO7ki"
+1558403532420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558403532420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558403532420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558403533591	Marionette	INFO	Listening on port 40201
+1558403533628	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+[Parent 28456, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 28456, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558403551345	Marionette	INFO	Stopped listening on port 40201
+1558403700858	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YUKEhwFRZPtV"
+1558403701109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558403701110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558403701110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558403702286	Marionette	INFO	Listening on port 41401
+1558403702364	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+[Parent 29115, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558403814993	Marionette	INFO	Stopped listening on port 41401
+1558403881384	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7ZZ418VdmP5I"
+1558403881622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558403881622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558403881622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558403882710	Marionette	INFO	Listening on port 34501
+1558403882800	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+[Parent 29658, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558403929471	Marionette	INFO	Stopped listening on port 34501
+1558404175505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qGB6IOJYX4I3"
+1558404175742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558404175742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558404175742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558404176938	Marionette	INFO	Listening on port 42137
+1558404177012	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:30709): dconf-WARNING **: 22:03:04.782: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://marketchameleon.com/bundles/MCJSFull1?v=cvM66BYyJhGNdKcxIj9PycxKzuCOgrvej23pyJ6pLic1, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+1558404225532	Marionette	INFO	Stopped listening on port 42137
+1558404500475	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.24odZM5RNsn2"
+1558404500711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558404500711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558404500711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558404501826	Marionette	INFO	Listening on port 42149
+1558404501884	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 31530, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 31530, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558405027891	Marionette	INFO	Stopped listening on port 42149
+1558405046350	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yscucd223RVH"
+1558405046636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558405046636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558405046636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558405047790	Marionette	INFO	Listening on port 45391
+1558405047860	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:418): dconf-WARNING **: 22:17:36.907: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://marketchameleon.com/bundles/MCJSFull1?v=cvM66BYyJhGNdKcxIj9PycxKzuCOgrvej23pyJ6pLic1, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+[Parent 32660, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 32660, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558405102798	Marionette	INFO	Stopped listening on port 45391
+1558417718048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Zg59IFS3OYeh"
+1558417718557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558417718557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558417718557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558417719902	Marionette	INFO	Listening on port 44177
+1558417719971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:16798): dconf-WARNING **: 01:48:48.947: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 16620, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 16620, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558417762175	Marionette	INFO	Stopped listening on port 44177
+1558417847650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VtclXwF80zFe"
+1558417847922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558417847923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558417847923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558417849082	Marionette	INFO	Listening on port 40805
+1558417849163	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+[Parent 17165, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558417878460	Marionette	INFO	Stopped listening on port 40805
+1558418474254	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.okGdNgZAoJMw"
+1558418474497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558418474497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558418474497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558418475618	Marionette	INFO	Listening on port 37675
+1558418475668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+[Parent 18229, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558418489192	Marionette	INFO	Stopped listening on port 37675
+1558418595839	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FqugFhxSbXmK"
+1558418596099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558418596099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558418596100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558418597268	Marionette	INFO	Listening on port 33903
+1558418597360	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+[Parent 18780, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 18780, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558418610154	Marionette	INFO	Stopped listening on port 33903
+1558419278077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kFh4cniqAd1D"
+1558419278340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558419278341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558419278341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558419279586	Marionette	INFO	Listening on port 43083
+1558419279685	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:20070): dconf-WARNING **: 02:14:44.407: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Parent 19889, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558419293006	Marionette	INFO	Stopped listening on port 43083
+1558419314771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.47dJE1NiKgpK"
+1558419315073	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558419315073	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558419315073	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558419316256	Marionette	INFO	Listening on port 44849
+1558419316283	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+[Parent 20354, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558419333208	Marionette	INFO	Stopped listening on port 44849
+1558419349519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.y1Ao1T4Tll6z"
+1558419349780	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558419349780	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558419349780	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558419350913	Marionette	INFO	Listening on port 42535
+1558419350930	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 20770, Gecko_IOThread] WARNING: pipe error (106): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 20770, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558419385848	Marionette	INFO	Stopped listening on port 42535
+1558419417079	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.l42n3tLQDnLh"
+1558419417339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558419417339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558419417339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558419418560	Marionette	INFO	Listening on port 46067
+1558419418606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:21425): dconf-WARNING **: 02:17:04.448: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://marketchameleon.com/bundles/MCJSFull1?v=cvM66BYyJhGNdKcxIj9PycxKzuCOgrvej23pyJ6pLic1, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1558419719553	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AgPKGo8QQsvE"
+1558419719833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558419719834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558419719834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558419721104	Marionette	INFO	Listening on port 42161
+1558419721158	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+1558419727482	Marionette	INFO	Stopped listening on port 46067
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+1558419815523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FmnmEHXSwPtO"
+1558419815818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558419815818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558419815818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558419817149	Marionette	INFO	Listening on port 43673
+1558419817241	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22029, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 22029, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558419820230	Marionette	INFO	Stopped listening on port 42161
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:22704): dconf-WARNING **: 02:23:43.822: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1558420049522	Marionette	INFO	Stopped listening on port 43673
+1558420051107	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LQlCPGB1WYpy"
+1558420051382	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558420051382	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558420051382	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558420052606	Marionette	INFO	Listening on port 40951
+1558420052613	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+1558420084917	Marionette	INFO	Stopped listening on port 40951
+1558420107846	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gIrqg5EUV1jw"
+1558420108112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558420108112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558420108112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558420109177	Marionette	INFO	Listening on port 43147
+1558420109253	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+[Parent 23675, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 23675, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558420143696	Marionette	INFO	Stopped listening on port 43147
+1558420254149	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.C8Hb8euNYXpJ"
+1558420254413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558420254414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558420254414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558420255508	Marionette	INFO	Listening on port 40473
+1558420255561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:24402): dconf-WARNING **: 02:31:05.373: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+[Parent 24223, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 24223, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558420325597	Marionette	INFO	Stopped listening on port 40473
+1558420483451	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BU9tDKfBRPcm"
+1558420483713	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558420483713	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558420483713	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558420484904	Marionette	INFO	Listening on port 45697
+1558420484969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 24883, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 24883, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558420531927	Marionette	INFO	Stopped listening on port 45697
+1558420557171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ez6WJ6RaujZ5"
+1558420557417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558420557417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558420557417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558420558572	Marionette	INFO	Listening on port 36805
+1558420558581	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1558420618350	Marionette	INFO	Stopped listening on port 36805
+1558421035612	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.w0T3SSiPDReY"
+1558421035866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558421035866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558421035866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558421037038	Marionette	INFO	Listening on port 39937
+1558421037143	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:814:5\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Protocol error (unknownError): node is null"
+[Parent 26054, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 26054, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558421134826	Marionette	INFO	Stopped listening on port 39937
+1558421182373	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3TxtTd7rz0Ra"
+1558421182629	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558421182630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558421182630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558421183775	Marionette	INFO	Listening on port 39129
+1558421183786	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 26753, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 26753, Gecko_IOThread] WARNING: pipe error (81): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558421227758	Marionette	INFO	Stopped listening on port 39129
+1558421246393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pwnzRbzqqHRn"
+1558421246644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558421246645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558421246645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558421247825	Marionette	INFO	Listening on port 45449
+1558421247898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1558421455792	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+[Parent 27196, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 27196, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558421467578	Marionette	INFO	Stopped listening on port 45449
+1558421632045	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uByXQMT4gP4o"
+1558421632386	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558421632386	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558421632386	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558421633747	Marionette	INFO	Listening on port 46677
+1558421633758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14212: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 14369: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 46741: unreachable code after return statement
+JavaScript warning: https://marketchameleon.com/bundles/MCJSFull3?v=O9MbkgpgHbH-QuC9KEyi2HE81OtBLv-vEkW5Dy2N4tA1, line 57171: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 28561, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 28561, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-OLGGCZ/firefox-66.0.5+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1558421687460	Marionette	INFO	Stopped listening on port 46677

@@ -1,0 +1,24 @@
+We are trying to learn BUY SPREAD or not.
+
+The parameters to learn based off of:
+1. Volatility
+2. Score of how much this drug affects company
+    - Size of Company
+    - How many other drugs in circulation
+    - How much invested into this drug
+    - How much projected revenue from new drug
+    - How much revenue from other drugs
+
+To do:
+1. Scrape dates of drug approvals and CRL's - Done
+2. Find stock prices around those dates - Done
+3. Determine volatility of stock then - Done
+4. Determine the size of the stock then - Done
+5. Plot values vs the final volatility difference - Done
+6. Try strategy in quantconnect with linear threshold against original volatility -
+7. Try to train based on this data -
+8. If not working, try adding more parameters -
+
+Volatility:
+1. Formula: standard deviation of percent changes daily.
+2. For seven days, will have six or less data points of percent changes
