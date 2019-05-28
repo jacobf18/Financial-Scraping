@@ -55,8 +55,8 @@ def login():
     username_box = browser.find_element_by_xpath('//*[@id="UserName"]')
     password_box = browser.find_element_by_xpath('//*[@id="Password"]')
 
-    username_box.send_keys('jared.eisenberg2@gmail.com')
-    password_box.send_keys('4762651Fei#')
+    username_box.send_keys('EMAIL')
+    password_box.send_keys('PASSWORD')
     password_box.send_keys(Keys.ENTER)
     WebDriverWait(browser, delay).until(EC.presence_of_element_located((By.CSS_SELECTOR, 'a.montage_datepicker_trigger')))
 
